@@ -98,7 +98,7 @@ npm run dev
 
 #### Backend (.env)
 ```env
-MONGO_URL=mongodb+srv://username:password@cluster.mongodb.net/suckdsa
+MONGO_URL=mongodb+srv://username:pwd@cluster.mongodb.net/dsa
 JWT_SECRET=your-super-secure-jwt-secret
 GEMINI_API_KEY=your-google-gemini-api-key
 EMAIL_USER=your-gmail@gmail.com
